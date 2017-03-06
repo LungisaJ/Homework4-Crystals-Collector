@@ -1,0 +1,68 @@
+body {
+	align-content: center;
+	padding: 50px;
+	background-color: black;
+
+}
+
+#container {
+	background-color: #99FFFF;
+	width: 650px;
+	height: 750px;
+	border-radius: 10px;
+	padding: 10px;
+	text-align: center;
+	color: rgba(255,255,255,1);
+}
+
+#header {
+	background-color: #FF6600;
+	width: 350px;
+	height: 60px;
+}
+
+#instructions {
+	background-color: #FFCC99;
+	width: 350px;
+	height: 250px;
+	color: black;
+}
+
+#randomnum {
+	background-color: #009900;
+	width: 50px;
+	height: 50px;
+	/*float: right;
+	/*clear: left;*/
+}
+
+#tracker {
+	background-color: #00ffff;
+	width: 80px;
+	height: 60px;
+	color: black;
+	
+
+}
+
+#btn-group {
+	float: left;
+}
+
+#score {
+	background-color: #808080;
+	width: 300px;
+	height: 30px;
+
+}
+
+#counter {
+	background-color: #808080;
+	width: 100px;
+	height: 80px;
+
+}
+
+#cyrstals {
+	text-align: left;
+}
